@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  color: #2484ff;
+  background-color: #DAAD86;
+  font-size:xx-large;
+  font-weight:bolder;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .App-logo {
